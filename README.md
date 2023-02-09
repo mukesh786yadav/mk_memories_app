@@ -1,8 +1,5 @@
-# MK_Memories
+# MK_Memories![Image](https://user-images.githubusercontent.com/99944193/217868413-8c1fccce-a774-4334-bd0d-c5f5aac35750.jpeg)
 
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
-
-## Introduction
 This is a code repository for the corresponding Memories App where you can find below listed feature
 1. ->Sign in
     1.1 -> by email Id
